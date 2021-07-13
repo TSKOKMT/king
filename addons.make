@@ -1,0 +1,6 @@
+ofxOsc
+ofxSyphon
+ofxTskokmtMath
+ofxTskokmtTool
+ofxTskokmtTranslator
+ofxXmlSettings
